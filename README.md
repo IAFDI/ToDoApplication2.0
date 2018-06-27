@@ -32,7 +32,7 @@ GIF created with [RecordIt](http://recordit.co/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+When building this app, I encountered some difficulty with the persistance due to an omitted line of code and initial confusion with the concept.
 
 ## License
 
