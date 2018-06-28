@@ -4,7 +4,7 @@
 
 Submitted by: **Magdalena Price**
 
-Time spent: **3** hours spent in total
+Time spent: **4.5** hours spent in total
 
 ## User Stories
 
@@ -26,7 +26,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-![Video Walkthrough](http://g.recordit.co/MlvgbV2QX5.gif)'
+![Video Walkthrough](http://g.recordit.co/PKq2V03FRX.gif)'
 
 GIF created with [RecordIt](http://recordit.co/).
 
